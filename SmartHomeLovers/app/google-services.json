@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755307408750",
+    "firebase_url": "https://henhung-74f0f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "henhung-74f0f",
+    "storage_bucket": "henhung-74f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755307408750:android:43172c0a6b23dbce75a57f",
+        "android_client_info": {
+          "package_name": "com.example.smarthomelovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755307408750-rbr4okocgh6trr0t9ck803igas3n1pi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPGqPHkUZXijl59jOYJA7c0o_7Vyh-nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755307408750-rbr4okocgh6trr0t9ck803igas3n1pi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
